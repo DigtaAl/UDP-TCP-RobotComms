@@ -1,0 +1,4 @@
+/home/odroid/AAD_Nasional/build/CMakeFiles/rebuild_cache.dir
+/home/odroid/AAD_Nasional/build/CMakeFiles/edit_cache.dir
+/home/odroid/AAD_Nasional/build/CMakeFiles/client.dir
+/home/odroid/AAD_Nasional/build/CMakeFiles/server.dir

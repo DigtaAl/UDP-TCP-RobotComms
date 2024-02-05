@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/odroid/AAD_Nasional/Server.cpp
+iostream
+-
+unistd.h
+-
+arpa/inet.h
+-
+thread
+-
+vector
+-
+algorithm
+-
+
