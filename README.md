@@ -18,4 +18,6 @@ This project focuses on implementing a robust client-server communication system
 
 - To run the server, navigate to the `build` directory and execute the following command:
 
-  ```make, ./server || ./client
+  ```make
+  ```./server
+  ```./client
